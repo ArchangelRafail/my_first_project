@@ -1,1 +1,3 @@
 My first line in project
+London is the capital of GB
+Ukrain is the capital of Kyiv
