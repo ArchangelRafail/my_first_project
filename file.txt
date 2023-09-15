@@ -1,4 +1,7 @@
 My first line in project
+<<<<<<< HEAD
 London is the capital of GB
 Ukrain is the capital of Kyiv
 Paris is the capital of France
+=======
+>>>>>>> parent of 409c11f (Capitals added)
